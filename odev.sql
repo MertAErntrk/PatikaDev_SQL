@@ -1,0 +1,1 @@
+select * from "SAS_BLACKLIST_USR"."DF_BLACKLIST_ALL"
