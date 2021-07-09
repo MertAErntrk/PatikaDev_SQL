@@ -1,2 +1,1 @@
-# PatikaDev_SQL
-Ödev1
+## VitrA verilimi bootcampı için hazırlanmış PostgreSQL ödev reposudur.
